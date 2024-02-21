@@ -2,7 +2,7 @@ from data.first_page import input_data
 import openai
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = ''
 
 # Define input data
 # input_data = [
